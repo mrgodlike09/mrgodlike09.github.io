@@ -1,0 +1,198 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL3v64BB/logo-balitv-big1.png",BALI TV
+http://dituduhmaling.xyz/US33T4/balitv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpYw4gO.jpg",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4FL2h8M/cnnindonesia.png", CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png",TVRI
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6441_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png",RCTI
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png",GTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/MNCTV.id.png",MNCTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 https://static.epg.best/id/iNews.id.png",iNews
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjqHB3dL/logo-indosiar-big1.png",INDONESIA",INDOSIAR HD 
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjqHB3dL/logo-indosiar-big1.png",Indosiar
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/TVOne.id.png",TVOne
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png",SCTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/Indosiar.id.png",Indosiar
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png",TransTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/Trans7.id.png",Trans7
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_734_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/NetTV.id.png",NET.
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/RajawaliTV.id.png",RTV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_1561_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/MetroTV.id.png",Metro TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/KompasTv.id.png",Kompas TV
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Food Network
+https://nonton.site:8443/provision/pp/37411
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3vZJ4ys/Love-nat.jpg", Love Nature
+https://nonton.site:8443/provision/pp/36767
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx6jbcP0/Smith.jpg", Smithsonian
+https://nonton.site:8443/provision/pp/35998
+#EXTINF: -1 tvg-logo="http://static.epg.best/au/CGTNDocu.au.png",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png",THE INDONESIA CHANNEL
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25XZMzKK/O-CHANNEL.png",O CHANNEL
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz536C8f/logo-globaltv-big1.png",GLOBAL TV
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqtmhr9/inewstv.png",INEWS
+https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8LNXLTw/mnclogo.png",MNC TV
+https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png",RCTI
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpYw4gO.jpg",RCTI
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpYw4gO.jpg",SCTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 tvg-logo=""https://i.imgur.com/xpYw4gO.jpg",RRI
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpYw4gO.jpg",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpYw4gO.jpg",DAAI
+http://210.210.155.35/qwr9ew/s/s13/01.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNWcRbnn/logo-trans7-big1.png",TRANS 7 
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNWcRbnn/logo-trans7-big1.png",TRANS TV
+#https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",First
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",Connect 360
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",CNBC Indo
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",KIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png, INDOSIAR 
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV ID" tvg-logo="https://i.ibb.co/5nj7gFv/mnctvlogo.pngl", MNCTV 
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV ID" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png", ANTV 
+http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-id="Sctv.id" tvg-name="Sctv ID" tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png", SCTV 
+http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI ID" tvg-logo="https://i.ibb.co/BZKTz4y/rctilogo.png", RCTI 
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="Net TV ID" tvg-logo="https://i.ibb.co/XDQFLPb/netlogo.png", NET TV
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBJXrmd/gtvlogo.png" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png", GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vqO6m_0QvUDwp34CYJQwSc-ZgRI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg", RTV
+http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png", TRANS 7
+http://rr2.dens.tv:80/s/s101/01.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mediaformasi.com/content/images/wordpress/2020/07/1594699707-picsay.jpg", Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://teleon.fra1.digitaloceanspaces.com/logo/jakarta_globe_news_channel_id.pngl", JAKARTA GLOBE NEWS CHANNEL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png", INEWS TV 
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8z2Bwxzt/beritasatu.png", BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 ,Channel NewsAsia-SG
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ,CNN-Indo
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 ,CNN-Indo
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
+#EXTINF:-1 ,iNews-Indo
+https://www.dropbox.com/s/dl/9i6gugwhuhhlxtm/mkctv_inews.m3u8
+#EXTINF:-1 ,B1 News-Indo
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//rthyNsjbvGpwPHkv7dmXNavutrV.jpg", หัวโต(1980)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959689
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/18/Gengsi_Dong_(1980;_obverse;_wiki).jpg", Gengsi Dong (1980)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959690
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//xyYihibgZJmUaXMH6DjDM5x4zkv.jpg", IQ Jongkok (1981)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959691
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Manusia6JutaDolar.jpg", Manusia Enam Juta Dollar (1981)
+https://drive.google.com/file/d/10XrbW_RKaqeWvrMitWDvHxNVLj1qXaKk/view?usp=sharing
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//mIHA8Xf6WmxbS83ia4vQ5ojvxV8.jpg", Chips (1982)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959692
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTViMzNhYjMtNmQ2OC00OWUwLTgxMGYtOGNiNDhmMTgzZTgxL2ltYWdlXkEyXkFqcGdeQXVyMzM2NzMxNTY@._V1_.jpg",ไปข้างหน้า (1983)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959693
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//a0IhQMVPUIOvux92i18Wr9nb03S.jpg", Itu Bisa Diatur (1984)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959694
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//2SBawUazX6DZluXUD3ZPAGByJc7.jpg", โอกาสในยามยาก (1985)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959695
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//mcQEGptfxrDjoTGDU8dnslyBJSl.jpg", Sama Juga Bohong (1986)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959696
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//mZtmAlJCkxm0Eg04oLyzTvzZwpU.jpg", กระจังหน้า กระจังหลัง (1987)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959697
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//zrDSIz5FC26caRmAFcNh4uy5Mg9.jpg", ขึ้นก็ได้ลงได้(1991)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959698
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//aguyZsbsGSitVcx1xOxNEL3Pmi6.jpg"", กฎของเกมฟรี (1993)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959699
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//52x4es5B6G2TGH6XH7CWXdpxNPH.jpg", Salah Masuk (1993)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959700
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2f/Pencet_Sana_Pencet_Sini.jpg", Pencet Sana Pencet Sini (1994)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959701a
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjqHB3dL/logo-indosiar-big1.png" group-title="LM/FTA",INDOSIAR HD [Vidio]
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT3VThgL/mgs-tv.png" group-title="LM/FTA",MEGASWARA TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8LNXLTw/mnclogo.png" group-title="LM/FTA",MNC TV HD
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="LM/FTA",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
